@@ -39,8 +39,8 @@ PharmacyApp -院内採用薬一覧-
 
 - 院内採用薬の一覧表示
 - 院内採用薬の一覧をPDF出力する機能
-- 薬効別検索(プルダウン)
 - 内服、外用、注射別表示機能
+- 薬効別検索(プルダウン)
 - 薬剤名入力検索
 - 院外採用薬一覧参照
 - 薬効詳細画面への遷移(外部システム)
@@ -51,7 +51,24 @@ PharmacyApp -院内採用薬一覧-
 ### システムイメージ図
 
 - 薬剤一覧画面
-- 
+  ![pharmacy01](https://github.com/hide338/PharmacyApp/assets/93624688/bc0bfc12-552b-4cd6-85f9-089cb0295b58)
+- 内服、外用、注射別に表示が可能
+  - 薬効の選択欄も内容に合わせて切り替わります。
+  ![pharmacy02](https://github.com/hide338/PharmacyApp/assets/93624688/3dd2ebc7-f3b6-4d07-bf5e-18ddd66ca2b9)
+  ![pharmacy03](https://github.com/hide338/PharmacyApp/assets/93624688/6623c58e-fc72-49c3-93db-52636c351173)
+  ![pharmacy04](https://github.com/hide338/PharmacyApp/assets/93624688/fdcaa1da-57ac-4dd3-9678-3fd6025698f2)
+- 薬効別にプルダウン形式で選択可能
+  - 薬効は、大項目から小項目までクリックするたびに絞り込みが行われるため、見つかった時点で薬剤の詳細が閲覧可能です。
+  ![pharmacy05](https://github.com/hide338/PharmacyApp/assets/93624688/28decf99-b3a1-4890-9b21-f16ea769ec0b)
+  ![pharmacy06](https://github.com/hide338/PharmacyApp/assets/93624688/2581e676-a130-46a5-a6b4-fda7c36eb59a)
+  ![pharmacy07](https://github.com/hide338/PharmacyApp/assets/93624688/d528d490-1428-4317-ac28-ab611714ba7b)
+- 薬剤の詳細情報は、外部システムと連携して閲覧可能
+  ![pharmacy08](https://github.com/hide338/PharmacyApp/assets/93624688/eb5adffc-4d81-41a9-a218-f1e4e420ba82)
+- 薬剤名を一部入力し、検索することが可能
+  ![pharmacy09](https://github.com/hide338/PharmacyApp/assets/93624688/3fbcf2a1-7139-426d-ae6c-2a4011014bdf)
+  ![pharmacy10](https://github.com/hide338/PharmacyApp/assets/93624688/df117db7-e1a2-4328-bc0e-75067a2139fc)
+- 外部システムの検索画面へリンク
+  ![pharmacy11](https://github.com/hide338/PharmacyApp/assets/93624688/265075d3-1136-4478-872a-9cdf5be88b35)
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
