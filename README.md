@@ -69,6 +69,8 @@ PharmacyApp -院内採用薬一覧-
   ![pharmacy10](https://github.com/hide338/PharmacyApp/assets/93624688/df117db7-e1a2-4328-bc0e-75067a2139fc)
 - 外部システムの検索画面へリンク
   ![pharmacy11](https://github.com/hide338/PharmacyApp/assets/93624688/265075d3-1136-4478-872a-9cdf5be88b35)
+- 院外の薬剤一覧も参照可能(PDF出力対象外)
+  ![pharmacy12](https://github.com/hide338/PharmacyApp/assets/93624688/69148d2e-ce2b-4da8-82d6-39df3d9f8b8c)
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
