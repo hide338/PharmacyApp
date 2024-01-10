@@ -1,6 +1,6 @@
 <?php
-define('DSN', 'sqlsrv:server=SUKAGAWASRV14;database=sukagawadb');
-define('DB_USER', 'viewer');
+define('DSN', '');
+define('DB_USER', '');
 define('DB_PASS', '');
 
 try {
